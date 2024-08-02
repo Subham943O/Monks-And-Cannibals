@@ -29,7 +29,7 @@ Follow these instructions to get a local copy of the project up and running on y
 
 1. Clone or download this repository.
 ```
-git clone https://github.com/KrishKumar3004/monks-and-cannibals
+git clone https://github.com/Subham943O/monks-and-cannibals
 ```
 
 2. Navigate to the project directory.
@@ -66,4 +66,4 @@ yarn start
 
 ## Authors
 
-- [Krish Kumar](https://github.com/your-KrishKumar3004)
+- [Shubham Kumar](https://github.com/Subham943O)
